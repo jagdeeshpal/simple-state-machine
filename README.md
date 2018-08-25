@@ -1,5 +1,5 @@
 # simple-state-machine
-Finit State Machine handling.
+C++ Finit State Machine handling template.
 
 /** How to use it.
  *
