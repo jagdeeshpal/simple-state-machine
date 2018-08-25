@@ -32,13 +32,13 @@ C++ Finit State Machine handling template.
  *     typedef enum { e_start='strt', e_play='play', e_pause='paus', e_stop='stop' } TEvents;
  *     typedef enum { s_start='strt', s_end='end0', s_any='any0' } TStates;
  * 
- *     CStateMachine<CMyClass,TStates,TEvents,s_start,s_any> m_my_state_machine;
+ *     CStateMachine<CMyClass,TStates,TEvents,s_start,s_any> m_state_machine;
  * }
  * 
  * 
  * 2) Initialization,
  *   this must be initialized before any use.
  * 
- *    e.g. m_my_state_machine.intialize();
+ *    e.g. m_state_machine.intialize();
  */
  
