@@ -1,4 +1,5 @@
-# simple-state-machine
+# A simple state machine written in C++.
+
 C++ Finit State Machine handling template.
 
 /** How to use it.
