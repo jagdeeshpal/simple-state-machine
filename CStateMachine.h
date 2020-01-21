@@ -25,7 +25,7 @@
 #include "mutex.h" 
 
 //check if there is any debug message defined.
-#if ! define LOGMSG_DBG_ERR
+#if ! defined LOGMSG_DBG_ERR
     #define LOGMSG(x,y) 
 #endif
 
